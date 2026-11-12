@@ -1,0 +1,6 @@
+{
+  "name": "MyBestSPA — Subscription Personal Assistant",
+  "description": "One-stop subscription expense tracker for online and offline recurring costs with actionable renewal alerts and leakage prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
